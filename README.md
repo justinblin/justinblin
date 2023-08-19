@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+My name is Justin Lin, and I'm currently a student studying CS at UT Austin! I'm curious about programming, and I especially enjoy learning about machine learning and neural networks. I love creating my own projects because I enjoy learning through hands-on work and experimentation, and I've made websites and Chrome extensions in html/css, a deep neural network in Java, and more, but I'm always excited to learn more!
 
 <!--
 **justinblin/justinblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
